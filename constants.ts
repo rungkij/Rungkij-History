@@ -141,7 +141,7 @@ export const ERAS: Era[] = [
   },
   {
     id: 'era-4',
-    title: 'Live The Next Level',
+    title: 'Rungkij : Live The Next Level',
     period: '',
     description: 'ยกระดับสู่ Modern Luxury และธีมสถาปัตยกรรมระดับโลก',
     events: [

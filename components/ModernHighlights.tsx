@@ -7,7 +7,7 @@ const ModernHighlights: React.FC = () => {
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="font-serif text-3xl md:text-5xl mb-6 text-retro-gold">
-            Live The Next Level
+            Rungkij : Live The Next Level
           </h2>
           <p className="font-sans text-lg text-retro-paper/80 max-w-2xl mx-auto">
             ประสบการณ์การอยู่อาศัยที่เหนือระดับ ด้วยดีไซน์สถาปัตยกรรมระดับโลกและการก่อสร้างที่ใส่ใจในทุกรายละเอียด
